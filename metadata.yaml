@@ -1,0 +1,28 @@
+_repo: The-World-s-Sixteen-Crucified-SaviorsOr-Christianity-Before-Christ_38600
+_version: 0.1.0
+alternative_title: The World's 16 Crucified Saviors; Or, Christianity Before Christ
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Graves, Kersey
+    birthdate: 1813
+    deathdate: 1883
+    gutenberg_agent_id: '39565'
+    url: http://www.gutenberg.org/2009/agents/39565
+description: ''
+gutenberg_issued: '2012-01-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38600'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christianity -- Controversial literature'
+- !lcsh 'Dying and rising gods -- Comparative studies'
+- !lcc 'BL'
+title: The World's Sixteen Crucified Saviors; Or, Christianity Before Christ
+url: http://www.gutenberg.org/ebooks/38600
