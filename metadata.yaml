@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '39565'
     url: http://www.gutenberg.org/2009/agents/39565
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38600#The-World-s-Sixteen-Crucified-SaviorsOr-Christianity-Before-Christ
 gutenberg_issued: '2012-01-17'
 gutenberg_type: Text
 identifiers:
